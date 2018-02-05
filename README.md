@@ -5,8 +5,10 @@
  <img src="https://raw.githubusercontent.com/ws199501/react-native-modal/master/%E5%BC%95%E5%85%A5.jpeg" alt="引入"/>
  <img src="https://raw.githubusercontent.com/ws199501/react-native-modal/master/%E9%BB%98%E8%AE%A4.jpeg" alt="默认"/>
  <img src="https://raw.githubusercontent.com/ws199501/react-native-modal/master/WechatIMG3.jpeg" alt="图片1"/>
+ * 位置下方，里面有child的用法实例：
  <img src="https://raw.githubusercontent.com/ws199501/react-native-modal/master/child.jpeg" alt="child用法"/>
  <img src="https://raw.githubusercontent.com/ws199501/react-native-modal/master/WechatIMG4.jpeg" alt="图片1"/>
+ 
  * @desc Modal 弹出层
  * @author ws
  * @date 2017-11-15
