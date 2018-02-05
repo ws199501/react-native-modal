@@ -19,5 +19,5 @@
  * 五 color 对话框的色调
  * 六 confrimText 对话框确认按钮的文字内容, cancelText 对话框取消按钮的文字内容,
  * 七 open() 的时候可以传不同的内容与属性：对话框内容 ( message:'内容'), 需要在onConfirm时候得到的数据 ( data:obj )
- * 八 type 是居中 “确认框”(center) 类型或者居下 “组件框类型”(bottom)
+ * 八 type 是居中(center) 类型或者居下 “组件框类型”(bottom)
  
